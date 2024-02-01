@@ -5,4 +5,5 @@
 <li>Modal</li>
 <li>Color Flipper</li>
 <li>Counter</li>
+<li>Sticky Nav</li>
 </ol>
